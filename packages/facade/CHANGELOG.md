@@ -1,5 +1,20 @@
 # @midnight-ntwrk/wallet-sdk-facade
 
+## 2.1.0
+
+### Minor Changes
+
+- aa7b1f4: chore: update ledger to v8
+
+### Patch Changes
+
+- Updated dependencies [aa7b1f4]
+  - @midnight-ntwrk/wallet-sdk-unshielded-wallet@2.1.0
+  - @midnight-ntwrk/wallet-sdk-shielded@2.1.0
+  - @midnight-ntwrk/wallet-sdk-address-format@3.1.0
+  - @midnight-ntwrk/wallet-sdk-capabilities@3.2.0
+  - @midnight-ntwrk/wallet-sdk-dust-wallet@2.1.0
+
 ## 2.0.0
 
 ### Major Changes
